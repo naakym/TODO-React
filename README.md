@@ -1,7 +1,7 @@
 # TODOアプリ (React)
 
 **JavaScriptとの違いを学習するために、Reactで簡易的なTODOアプリを実装**しました。  
-JavaScriptで作成したTODOアプリと同じものをReactで再構築しています。
+JavaScriptで作成したTODOアプリと同じものをReactで再構築しています。  
 未完了のタスクを追加し、完了または削除ができます。
 
 ## 機能
